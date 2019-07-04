@@ -3,7 +3,7 @@ layout: post
 title:  "Sunday QnA - #1"
 author: sal
 categories: [ qna ]
-image: assets/images/17.jpg
+image: assets/images/qna.png
 tags: [QnA]
 ---
 Hey,

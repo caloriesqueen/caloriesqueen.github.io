@@ -3,7 +3,7 @@ layout: post
 title:  "Finally opening my box of secrets"
 author: sal
 categories: [ course ]
-image: assets/images/post3.jpg
+image: assets/images/post3.png
 ---
 Finally opening my box of secrets
 
