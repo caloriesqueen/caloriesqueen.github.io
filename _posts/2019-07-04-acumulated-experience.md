@@ -3,7 +3,7 @@ layout: post
 title:  "Not all calories are same"
 author: sal
 categories: [ course ]
-image: assets/images/15.jpg
+image: assets/images/post4.jpg
 ---
 I am a shameless hypocrite.
 

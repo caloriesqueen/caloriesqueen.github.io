@@ -2,7 +2,7 @@
 layout: post
 title:  "So you want to know about dieting, huh?"
 categories: [ course ]
-image: assets/images/demo1.jpg
+image: assets/images/post1.jpg
 tags: [sticky]
 ---
 

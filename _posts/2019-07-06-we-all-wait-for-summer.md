@@ -3,7 +3,7 @@ layout: post
 title:  "Supplements are the new 'Kardashians' "
 author: sal
 categories: [ course, supplements ]
-image: assets/images/1.jpg
+image: assets/images/post6.jpg
 tags: [featured]
 ---
 Supplements are the new "Kardashians"
