@@ -23,9 +23,9 @@ authors:
       name:           Calories Queen
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Yashica, the owner of Calories Queen. I am NESTA Certified Nutrition Coach and a graduate from IIT Delhi. I hope you like this blog!"
+      email:          caloriesqueen@gmail.com
+      instagram:        https://wwww.instagram.com/caloriesqueen
 
     
  
@@ -38,7 +38,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/avatar.jpg
       
   # all pages
   - scope:
