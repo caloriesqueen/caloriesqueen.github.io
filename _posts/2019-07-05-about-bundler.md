@@ -3,7 +3,7 @@ layout: post
 title:  "The Micro-world"
 author: sal
 categories: [ course ]
-image: assets/images/2.jpg
+image: assets/images/post5.jpg
 ---
 Hey ,
  
