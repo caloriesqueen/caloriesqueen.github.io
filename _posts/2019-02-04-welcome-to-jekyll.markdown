@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter 0-So you want to know about dieting, huh?"
+title:  "So you want to know about dieting, huh?"
 categories: [ course ]
 image: assets/images/demo1.jpg
 ---
