@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter 3- Not all calories are same"
+title:  "Not all calories are same"
 author: sal
 categories: [ course ]
 image: assets/images/15.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Chapter 2- Finally opening my box of secrets"
+title:  "Finally opening my box of secrets"
+author: sal
 categories: [ course ]
 image: assets/images/3.jpg
 ---

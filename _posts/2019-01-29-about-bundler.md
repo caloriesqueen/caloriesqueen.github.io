@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Chapter 4- The Micro-world"
+title:  "The Micro-world"
 author: sal
 categories: [ course ]
 image: assets/images/2.jpg
 ---
 Hey ,
  
-The information shared in the last 4 emails is the foundational stone of every coaching certification. So, go pat on your back because now you are kind of a coach too. 
+The information shared in the last 4 posts is the foundational stone of every coaching certification. So, go pat on your back because now you are kind of a coach too. 
 
 In the last 4 chapters you have learned:
 + How not to do dieting

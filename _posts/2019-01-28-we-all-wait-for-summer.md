@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter 5-Supplements are the new 'Kardashians' "
+title:  "Supplements are the new 'Kardashians' "
 author: sal
 categories: [ course, supplements ]
 image: assets/images/1.jpg
