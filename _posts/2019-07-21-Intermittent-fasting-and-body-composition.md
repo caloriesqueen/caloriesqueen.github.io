@@ -14,7 +14,7 @@ tags: [featured]
 
 # Alternate-day fasting
 
-###Involves a 24-hour fasting period alternated with a 24-hour feeding period.Complete compensatory intake on the feeding days (to offset the fasting days’ deficit) does not occur, and thus total weight loss and fat loss occurs on ADF.
+### Involves a 24-hour fasting period alternated with a 24-hour feeding period.Complete compensatory intake on the feeding days (to offset the fasting days’ deficit) does not occur, and thus total weight loss and fat loss occurs on ADF.
 
 **Study 1** - 
 
@@ -176,4 +176,4 @@ It’s plausible that folks with the goal of maximizing rates of muscle gain sho
 
 **Which IF to do?** As for which IF variant to chose (ADF, WDF, TRF, etc), they all have demonstrated effectiveness in the literature, and therefore can be chosen on the basis of personal preference. 
 
-##Just remember that there is no special metabolic magic in IF, just like there’s no stoking the metabolic furnace with 6 meals a day.
+## Just remember that there is no special metabolic magic in IF, just like there’s no stoking the metabolic furnace with 6 meals a day.
