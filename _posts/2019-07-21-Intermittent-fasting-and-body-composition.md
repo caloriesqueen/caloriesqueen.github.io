@@ -9,8 +9,8 @@ tags: [featured]
 
 
 # Intermittent fasting and body composition: After over a decade of research, where are we today?
-
-
+<br>
+<br>
 
 # Alternate-day fasting
 
@@ -23,6 +23,7 @@ Lean mass-retention has been an intriguing effect of ADF reported by Varady et a
 [Alternate day fasting for weight loss in normal weight and overweight subjects: a randomized controlled trial. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/24215592)
 
 [Short-term modified alternate-day fasting: a novel dietary strategy for weight loss and cardioprotection in obese adults. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/19793855)
+<br>
 
 **Study 2** - 
 
@@ -35,7 +36,8 @@ Lean mass loss in ADF conditions has also been observed by other investigators.H
 [Evaluation of an alternating-calorie diet with and without exercise in the treatment of obesity. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/2667313)
 
 
-
+<br>
+<br>
 # Alternate-week fasting
 
 ### one week on ~1300 kcal/day, one week on the usual diet
@@ -45,7 +47,8 @@ Has only a single study to-date, but is worth mentioning since it was as effecti
 [Effects of intermittent compared to continuous energy restriction on short-term weight loss and long-term weight loss maintenance. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/25826770)
 
 
-
+<br>
+<br>
 # Whole-day fasting
 
 ### WDF involves one to two 24-hour fasting periods through the week of otherwise maintenance intake in order to achieve the deficit. Not all WDF studies involve zero energy intake in the ‘fasting’ days.
@@ -56,7 +59,7 @@ Has only a single study to-date, but is worth mentioning since it was as effecti
 Harvie et al saw no difference in bodyweight or body fat reduction between the WDF (2 ‘fasting’ days of ~647 kcal) group and controls when the weekly energy deficit was equated over a 6-month period.
 
 [The effects of intermittent or continuous energy restriction on weight loss and metabolic disease risk markers: a randomized trial in young overwei... - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/20921964)
-
+ <br>
 
 **Study 2** : 
 
@@ -68,14 +71,15 @@ Both WDF diets caused greater 3-month fat loss than daily energy restriction. An
 
 [The effect of intermittent energy and carbohydrate restriction v. daily energy restriction on weight loss and metabolic disease risk markers in ove... - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/23591120)
 
-
+<br>
+<br>
 
 # Time-restricted feeding
 
 
 ### involves a fasting period of 16-20 hours and a feeding period of 4-8 hours daily. The most studied form of TRF is Ramadan fasting, which involves approximately 1 month of complete fasting (both food and fluid) from sunrise to sunset.
 
-
+<br>
 **Study 1**: 
 
 Unsurprisingly, significant weight loss occurs, and this includes a reduction in lean mass as well as fat mass.
@@ -83,7 +87,8 @@ Unsurprisingly, significant weight loss occurs, and this includes a reduction in
 [The effect of ramadan fasting and physical activity on body composition, serum osmolarity levels and some parameters of electrolytes in females. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/23825979)
 
 [Effect of fasting in Ramadan on body composition and nutritional intake: a prospective study. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/23679071)
-
+<br>
+<br>
 
 **Study 2:** 
 
@@ -92,12 +97,16 @@ conditions for 8 weeks and surprisingly found 1 meal resulted in fat loss and le
 
 [A controlled trial of reduced meal frequency without caloric restriction in healthy, normal-weight, middle-aged adults. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/17413096)
 
-
+<br>
+<br>
 **Study 3 :** 
 
 Young et al  found no significant differences in weight loss and body composition change between 1, 3, or 6 meals per day.
 
 [Frequency of feeding, weight reduction, and body composition. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/5116179)
+
+<br>
+<br>
 
 ### Others :
 
@@ -116,7 +125,8 @@ Young et al  found no significant differences in weight loss and body compositio
     is its attention to macronutrition, and its administration of
     branched chain amino acids (BCAAs) during the fasting period.
 
-
+<br>
+<br>
 # Systematic Reviews :
 
 -  **#1 Systematic Review**
@@ -154,6 +164,7 @@ Young et al  found no significant differences in weight loss and body compositio
     - The subjects in this review were predominantly women
     - The duration of the interventions was short (average duration: 5.6 months
     - structured exercise regimens  were lacking in the studies included in this review
+<br>
 
 
 > IER and CER resulted in “apparently equivalent outcomes” for bodyweight reduction and body composition change. Given the complexity of weight management, it is unlikely that a ‘‘one size fits all’’ approach will work. IER may provide an alternative approach for individuals who struggle with daily energy restriction.
@@ -167,6 +178,8 @@ It’s plausible that folks with the goal of maximizing rates of muscle gain sho
 
 [Increasing Protein Distribution Has No Effect on Changes in Lean Mass During a Rugby Preseason. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26132746)
 
+<br>
+<br>
 
 # Conclusion
 
