@@ -1,13 +1,20 @@
-# Intermittent fasting and body composition
+---
+layout: post
+title:  "Intermittent fasting and body composition"
+author: sal
+categories: [ diet, aarr ]
+image: assets/images/post7.jpg
+tags: [featured]
+---
 
-# Intermittent fasting and body composition: 
-After over a decade of research, where are we today?
 
-[aarr-.-Dec.2015.pdf](aarr--b602312f-10db-4820-8356-abb8392f9217.-Dec.2015.pdf)
+# Intermittent fasting and body composition: After over a decade of research, where are we today?
+
+
 
 # Alternate-day fasting
 
-### Involves a 24-hour fasting period alternated with a 24-hour feeding period.Complete compensatory intake on the feeding days (to offset the fasting days’ deficit) does not occur, and thus total weight loss and fat loss occurs on ADF.
+####Involves a 24-hour fasting period alternated with a 24-hour feeding period.Complete compensatory intake on the feeding days (to offset the fasting days’ deficit) does not occur, and thus total weight loss and fat loss occurs on ADF.
 
 **Study 1** - 
 
@@ -27,23 +34,29 @@ Lean mass loss in ADF conditions has also been observed by other investigators.H
 
 [Evaluation of an alternating-calorie diet with and without exercise in the treatment of obesity. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/2667313)
 
+
+
 # Alternate-week fasting
 
-### one week on ~1300 kcal/day, one week on the usual diet
+#### one week on ~1300 kcal/day, one week on the usual diet
 
 Has only a single study to-date, but is worth mentioning since it was as effective as continuous energy restriction for reducing body weight and waist girth at 8 weeks and 1 year.
 
 [Effects of intermittent compared to continuous energy restriction on short-term weight loss and long-term weight loss maintenance. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/25826770)
 
+
+
 # Whole-day fasting
 
-### WDF involves one to two 24-hour fasting periods through the week of otherwise maintenance intake in order to achieve the deficit. Not all WDF studies involve zero energy intake in the ‘fasting’ days.
+#### WDF involves one to two 24-hour fasting periods through the week of otherwise maintenance intake in order to achieve the deficit. Not all WDF studies involve zero energy intake in the ‘fasting’ days.
+
 
 **Study 1** : 
 
 Harvie et al saw no difference in bodyweight or body fat reduction between the WDF (2 ‘fasting’ days of ~647 kcal) group and controls when the weekly energy deficit was equated over a 6-month period.
 
 [The effects of intermittent or continuous energy restriction on weight loss and metabolic disease risk markers: a randomized trial in young overwei... - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/20921964)
+
 
 **Study 2** : 
 
@@ -52,11 +65,16 @@ structured energy-restricted ‘fasting’ days and one whose 2 ‘fasting’ da
 
 Both WDF diets caused greater 3-month fat loss than daily energy restriction. An important detail here is that at 3 months, **the 70% of the fasting days were completed in the WDF groups while the DER group achieved their targeted caloric deficit only 39% of the trial.**
 
+
 [The effect of intermittent energy and carbohydrate restriction v. daily energy restriction on weight loss and metabolic disease risk markers in ove... - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/23591120)
+
+
 
 # Time-restricted feeding
 
-### involves a fasting period of 16-20 hours and a feeding period of 4-8 hours daily. The most studied form of TRF is Ramadan fasting, which involves approximately 1 month of complete fasting (both food and fluid) from sunrise to sunset.
+
+#### involves a fasting period of 16-20 hours and a feeding period of 4-8 hours daily. The most studied form of TRF is Ramadan fasting, which involves approximately 1 month of complete fasting (both food and fluid) from sunrise to sunset.
+
 
 **Study 1**: 
 
@@ -66,12 +84,14 @@ Unsurprisingly, significant weight loss occurs, and this includes a reduction in
 
 [Effect of fasting in Ramadan on body composition and nutritional intake: a prospective study. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/23679071)
 
+
 **Study 2:** 
 
 Stote et al compared 1 versus 3 meals per day in eucaloric (weight–maintenance)
 conditions for 8 weeks and surprisingly found 1 meal resulted in fat loss and lean mass gain, while no significant improvements were detected in the 3-meal group. **Unfortunately, the use of bioelectrical impedance (BIA) keeps these results questionable.**
 
 [A controlled trial of reduced meal frequency without caloric restriction in healthy, normal-weight, middle-aged adults. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/17413096)
+
 
 **Study 3 :** 
 
@@ -81,7 +101,7 @@ Young et al  found no significant differences in weight loss and body compositio
 
 ### Others :
 
-- The Warrior Diet
+- **The Warrior Diet**
 
     It involves a 4-6 hour feeding period at night, and an 18-hour
     “under-feeding” period during the day. The diet draws
@@ -89,19 +109,21 @@ Young et al  found no significant differences in weight loss and body compositio
     Stone Age ancestors, as well as other leaps of faith involving the
     sympathetic and autonomic nervous system. 
 
-- Berkhan’s Leangains system
+- **Berkhan’s Leangains system**
 
     16-hour ‘fasting’ period and an 8
     hour feeding period.16 What separates this protocol from others
     is its attention to macronutrition, and its administration of
     branched chain amino acids (BCAAs) during the fasting period.
 
+
 # Systematic Reviews :
 
-- #1 Systematic Review
+-  **#1 Systematic Review**
 
     [Do intermittent diets provide physiological benefits over continuous diets for weight loss? A systematic review of clinical trials. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26384657)
 
+   
     **Total Studies** :  40 studies in total, 12 of which directly compared an IER with a CER condition. 
 
     - They found that overall, the two diet types resulted in “apparently  equivalent outcomes” in terms of bodyweight reduction and body composition change.
@@ -114,7 +136,9 @@ Young et al  found no significant differences in weight loss and body compositio
 
     1. 14 of the 40 studies were by the same research group (Varady et al, University of Illinois at Chicago). Varady has published [The Every-Other-Day Diet](http://www.amazon.com/The-Every-Other-Day-Diet-That-Weight/dp/1401324932)
     2. there’s a severe lack of IER (and IER vs CER) studies that include a structured training component.
-- #2 Meta Analysis
+
+
+- **#2 Meta Analysis**
 
     [Intermittent fasting interventions for treatment of overweight and obesity in adults: a systematic review and meta-analysis. - PubMed - NCBI](https://www.ncbi.nlm.nih.gov/pubmed/29419624)
 
@@ -131,7 +155,9 @@ Young et al  found no significant differences in weight loss and body compositio
     - The duration of the interventions was short (average duration: 5.6 months
     - structured exercise regimens  were lacking in the studies included in this review
 
+
 > IER and CER resulted in “apparently equivalent outcomes” for bodyweight reduction and body composition change. Given the complexity of weight management, it is unlikely that a ‘‘one size fits all’’ approach will work. IER may provide an alternative approach for individuals who struggle with daily energy restriction.
+
 
 # What about muscle gain?
 
@@ -141,6 +167,7 @@ It’s plausible that folks with the goal of maximizing rates of muscle gain sho
 
 [Increasing Protein Distribution Has No Effect on Changes in Lean Mass During a Rugby Preseason. - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26132746)
 
+
 # Conclusion
 
 **Is it effective?**  IF has proven itself to be an effective approach to dieting, and has outperformed conventional dieting in some cases.
@@ -149,4 +176,4 @@ It’s plausible that folks with the goal of maximizing rates of muscle gain sho
 
 **Which IF to do?** As for which IF variant to chose (ADF, WDF, TRF, etc), they all have demonstrated effectiveness in the literature, and therefore can be chosen on the basis of personal preference. 
 
-> Just remember that there is no special metabolic magic in IF, just like there’s no stoking the metabolic furnace with 6 meals a day.
+##Just remember that there is no special metabolic magic in IF, just like there’s no stoking the metabolic furnace with 6 meals a day.
