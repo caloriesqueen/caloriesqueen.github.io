@@ -3,7 +3,7 @@ layout: post
 title:  "Intermittent fasting and body composition"
 author: sal
 categories: [ diet, aarr ]
-image: assets/images/post7.jpg
+image: assets/images/post7.jpeg
 tags: [featured]
 ---
 
