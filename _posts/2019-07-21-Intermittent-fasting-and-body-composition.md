@@ -14,7 +14,7 @@ tags: [featured]
 
 # Alternate-day fasting
 
-####Involves a 24-hour fasting period alternated with a 24-hour feeding period.Complete compensatory intake on the feeding days (to offset the fasting days’ deficit) does not occur, and thus total weight loss and fat loss occurs on ADF.
+###Involves a 24-hour fasting period alternated with a 24-hour feeding period.Complete compensatory intake on the feeding days (to offset the fasting days’ deficit) does not occur, and thus total weight loss and fat loss occurs on ADF.
 
 **Study 1** - 
 
@@ -38,7 +38,7 @@ Lean mass loss in ADF conditions has also been observed by other investigators.H
 
 # Alternate-week fasting
 
-#### one week on ~1300 kcal/day, one week on the usual diet
+### one week on ~1300 kcal/day, one week on the usual diet
 
 Has only a single study to-date, but is worth mentioning since it was as effective as continuous energy restriction for reducing body weight and waist girth at 8 weeks and 1 year.
 
@@ -48,7 +48,7 @@ Has only a single study to-date, but is worth mentioning since it was as effecti
 
 # Whole-day fasting
 
-#### WDF involves one to two 24-hour fasting periods through the week of otherwise maintenance intake in order to achieve the deficit. Not all WDF studies involve zero energy intake in the ‘fasting’ days.
+### WDF involves one to two 24-hour fasting periods through the week of otherwise maintenance intake in order to achieve the deficit. Not all WDF studies involve zero energy intake in the ‘fasting’ days.
 
 
 **Study 1** : 
@@ -73,7 +73,7 @@ Both WDF diets caused greater 3-month fat loss than daily energy restriction. An
 # Time-restricted feeding
 
 
-#### involves a fasting period of 16-20 hours and a feeding period of 4-8 hours daily. The most studied form of TRF is Ramadan fasting, which involves approximately 1 month of complete fasting (both food and fluid) from sunrise to sunset.
+### involves a fasting period of 16-20 hours and a feeding period of 4-8 hours daily. The most studied form of TRF is Ramadan fasting, which involves approximately 1 month of complete fasting (both food and fluid) from sunrise to sunset.
 
 
 **Study 1**: 
