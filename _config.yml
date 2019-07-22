@@ -7,7 +7,7 @@ google_analytics: 'UA-143425614-1'
 baseurl: ''
 disqus: ''
 email: 'caloriesqueen@gmail.com'
-mailchimp-list: ''
+mailchimp-list: 'https://caloriesqueen.us19.list-manage.com/subscribe/post?u=8b9edc8624c46f4b953e5d2a1&amp;id=053a3f2e14'
 
 include: ["_pages"]
 permalink: /:title/
