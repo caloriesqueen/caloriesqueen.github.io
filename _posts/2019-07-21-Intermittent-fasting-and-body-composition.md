@@ -16,7 +16,7 @@ tags: [featured]
 
 ### Involves a 24-hour fasting period alternated with a 24-hour feeding period.Complete compensatory intake on the feeding days (to offset the fasting days’ deficit) does not occur, and thus total weight loss and fat loss occurs on ADF.
 
-<p style='color:red'>Study 1</p>
+**Study 1** - 
 
 Lean mass-retention has been an intriguing effect of ADF reported by Varady et al -~25% of maintenance requirements, typically in the form of a single meal at lunchtime) alternated with a 24-hour ad libitum (as desired) feeding period.
 
