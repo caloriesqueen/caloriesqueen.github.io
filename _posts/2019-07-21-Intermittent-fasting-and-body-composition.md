@@ -11,7 +11,9 @@ tags: [featured]
 # Intermittent fasting and body composition: After over a decade of research, where are we today?
 <br>
 <br>
-
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1845_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Intermittent Fasting","geo":"IN","time":"today 5-y"},{"keyword":"calories deficit","geo":"IN","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=IN&q=Intermittent%20Fasting,calories%20deficit","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+<br>
+<br>
 # Alternate-day fasting
 
 ### Involves a 24-hour fasting period alternated with a 24-hour feeding period.Complete compensatory intake on the feeding days (to offset the fasting days’ deficit) does not occur, and thus total weight loss and fat loss occurs on ADF.
