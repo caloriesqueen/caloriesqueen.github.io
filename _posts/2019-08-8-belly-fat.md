@@ -3,7 +3,7 @@ layout: post
 title:  "How i lost belly fat in 90 days"
 author: sal
 categories: [ diet, belly fat ]
-image: assets/images/post8.jpeg
+image: assets/images/post9.png
 ---
 
 
